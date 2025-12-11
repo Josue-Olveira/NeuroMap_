@@ -108,10 +108,11 @@ Para facilitar a avaliação e testes em dispositivos físicos, disponibilizamos
 
 | Versão | Build | Download Direto |
 |:---:|:---:|:---:|
-| **v1.0.0 (Stable)** | Release | [![Download APK](https://img.shields.io/badge/Download-APK_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](releases/neuromap-v1.0.apk) |
+| **v1.2 (Estável)** | Release | [![Download APK](https://img.shields.io/badge/Download-APK_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/14Qomd5aYLd4NK3-K_sa-UGm1FJ9tl3XH/view?usp=sharing)
 
 ### 📸 Escaneie para Baixar
 
+<img src="https://github.com/Josue-Olveira/NeuroMap_/blob/main/Untitled.png?raw=true">
 
 <img src="assets/qrcode-apk.png" width="150">
 
